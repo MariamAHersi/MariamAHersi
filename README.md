@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋 I'm Mariam
 
-<!--
-**MariamAHersi/MariamAHersi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate interested in **data, AI and building technology that can have a real-world impact**.
 
-Here are some ideas to get you started:
+I enjoy taking a problem, exploring different ways of solving it, and turning ideas into something practical. At the moment, I'm particularly interested in **data science, machine learning, AI and data engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on
+- 🧠 A **RAG-based assessment repository** for university materials
+- 📊 Exploring how data and AI can be used to improve education
+- ☁️ Building my skills in **Azure, data engineering and Power BI**
+
+### 🌱 Currently learning
+- Retrieval-Augmented Generation (RAG) and LLM applications
+- Data engineering and cloud technologies
+- Machine learning and AI
+- Better ways to build useful, responsible technology
+
+### 🛠️ Technologies I've worked with
+
+**Languages & Data**
+`Python` `SQL` `JavaScript` `TypeScript` `Pandas` `NumPy` `scikit-learn`
+
+**AI & Machine Learning**
+`Machine Learning` `TensorFlow` `RAG` `LLMs` `Sentence Transformers`
+
+**Data & Cloud**
+`Azure` `Databricks` `Synapse Analytics` `Power BI` `MySQL` `PostgreSQL` `MongoDB`
+
+**Development**
+`Git` `FastAPI` `React` `React Native` `Node.js`
+
+### 💡 What I'm interested in
+
+I'm especially interested in the intersection of **technology, data and social impact** — from improving education and healthcare to exploring how technology can be made more accessible and sustainable.
+
+I'm also interested in learning more about **AI research, hardware and lower-resource technology**, particularly how we can build useful technology without always relying on huge amounts of computing power.
+
+### 🤝 Let's connect
+
+I'm always interested in meeting people working in **data, AI, technology for good and research**, and I'm open to collaborating on interesting projects.
+
+📫 Feel free to explore my repositories and get in touch!
