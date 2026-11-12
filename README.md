@@ -2,7 +2,7 @@
 
 I'm a Data Scientist interested in data, AI, and technology for social impact. I enjoy exploring different approaches to a problem and turning ideas into practical solutions.<br><br>Currently, I'm exploring RAG and AI applications, data engineering, and cloud technologies, while also learning more about hardware and sustainable technology.<br><br>I'm particularly interested in how technology can be used to improve areas like education and healthcare, and how we can build useful technology that is more accessible and resource-efficient.<br><br>I'm always interested in meeting people working in data, AI, technology for good, and research, and I'm open to collaborating on interesting projects.<br><br>Feel free to explore my repositories and get in touch!<br><br>
 
-[Portfolio](mariamahersi.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mariamahersi.github.io/Portfolio/)
 
 ## Socials
 
